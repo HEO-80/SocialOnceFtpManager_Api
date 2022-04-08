@@ -1,0 +1,10 @@
+C:\ProyectosNET\socialonceftpmanager_api\SocialOnceFtpManagerApi\src\Domain\bin\Debug\netstandard2.1\EAProductService.Domain.deps.json
+C:\ProyectosNET\socialonceftpmanager_api\SocialOnceFtpManagerApi\src\Domain\bin\Debug\netstandard2.1\EAProductService.Domain.dll
+C:\ProyectosNET\socialonceftpmanager_api\SocialOnceFtpManagerApi\src\Domain\bin\Debug\netstandard2.1\EAProductService.Domain.pdb
+C:\ProyectosNET\socialonceftpmanager_api\SocialOnceFtpManagerApi\src\Domain\obj\Debug\netstandard2.1\Domain.csproj.AssemblyReference.cache
+C:\ProyectosNET\socialonceftpmanager_api\SocialOnceFtpManagerApi\src\Domain\obj\Debug\netstandard2.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosNET\socialonceftpmanager_api\SocialOnceFtpManagerApi\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\ProyectosNET\socialonceftpmanager_api\SocialOnceFtpManagerApi\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\ProyectosNET\socialonceftpmanager_api\SocialOnceFtpManagerApi\src\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\ProyectosNET\socialonceftpmanager_api\SocialOnceFtpManagerApi\src\Domain\obj\Debug\netstandard2.1\EAProductService.Domain.dll
+C:\ProyectosNET\socialonceftpmanager_api\SocialOnceFtpManagerApi\src\Domain\obj\Debug\netstandard2.1\EAProductService.Domain.pdb
