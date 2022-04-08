@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EAProductService.Api
+build_property.ProjectDir = C:\ProyectosNET\socialonceftpmanager_api\SocialOnceFtpManagerApi\src\Api\
